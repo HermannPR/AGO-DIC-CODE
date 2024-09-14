@@ -1,3 +1,6 @@
+//Manuel Pérez A01749157
+//Hermann Pauwells A01741456
+
 #include <iostream>
 #include <fstream>
 #include "Registro.hpp"
